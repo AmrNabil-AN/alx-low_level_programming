@@ -13,7 +13,7 @@ int main(void)
 	int x = 0;
 	int y;
 
-	while (x <= 9 )
+	while (x <= 9)
 	{
 		y = 0;
 		while (y <= 9)
@@ -22,7 +22,7 @@ int main(void)
 			{
 				putchar(x + 48);
 				putchar(y + 48);
-				
+
 				if (x + y != 17)
 				{
 					putchar(',');
