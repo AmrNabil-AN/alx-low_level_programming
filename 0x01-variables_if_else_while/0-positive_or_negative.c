@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-/*
+/**
  * main - entry point
  *
  * Description: print value of n satus; zero, positive or negative
