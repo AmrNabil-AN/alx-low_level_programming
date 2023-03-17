@@ -6,13 +6,13 @@
  * description: prints the alphabet in lowercase,
  *		then in upper case
  *
- *return : always 0 (success)
+ *return: always 0 (success)
  */
 	int main(void)
 {
 	char x = 'a';
 	char y = 'A';
-	
+
 	while (x <= 'z')
 	{
 		putchar(x);
