@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * maini- entry point
  *
  * description: print number from 0:9
  *
@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	digit = 0;
+	int digit = 0;
 	while (digit < 10)
 	{
 		printf("%d", digit);
