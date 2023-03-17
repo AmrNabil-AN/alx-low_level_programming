@@ -15,8 +15,9 @@
 	while (x <= 'z')
 	{
 		if (x == 'e' || x == 'q')
-		       ++x
+		       ++x;
 		putchar(x);
+		++x;
 	}
 
 	putchar('\n');
