@@ -13,13 +13,17 @@
 	char x = 'a';
 	char y = 'A';
 	
-	while (x <= 'z' && y <= 'Z')
+	while (x <= 'z')
 	{
 		putchar(x);
 		++x;
-		putchar(y);
-		++y
 	}
-	putchar('\n')
+	while (y <= 'Z');
+	{
+		putchar(y);
+		++y;
+	}
+
+	putchar('\n');
 		return (0);
 }
