@@ -15,7 +15,7 @@ int main(void)
 
 	while (x <= 99)
 	{
-		int y = x;
+		y = x;
 		while (y <= 99)
 		{
 			if (y != x)
@@ -34,7 +34,7 @@ int main(void)
 			}
 			++y;
 		}
-		++x
+		++x;
 	}
 	putchar('\n');
 
