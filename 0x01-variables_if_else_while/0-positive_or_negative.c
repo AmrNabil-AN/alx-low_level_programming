@@ -4,11 +4,13 @@
 
 /* betty style doc for function main goes there */
 int main(void)
-{	int n;
+{	
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
+
 	if(n>0)
 	{
 		printf("is positive\n");
@@ -19,7 +21,7 @@ int main(void)
 	}
 	else
 	{
-		printf("is negative\n);
+		printf("is negative\n");
 	}
 	return (0);
 }
