@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * descrption: print numbers 
+ * descrption: print numbers
  *
  * Return: Always 0 (success)
  */
