@@ -3,7 +3,9 @@
 /**
  * main - entry point
  *
- * description: Write a function that prints the alphabet, in lowercase, followed by a new line.
+ * alphabet: print from a to z
+ *
+ * description: Write a function that prints the alphabet, in lowercase
  *
  * Return: always 0 (success)
  */
