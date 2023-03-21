@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * alphabet: print from a to z
+ * print_alphabet -  print from a to z
  *
  * description: Write a function that prints the alphabet, in lowercase
  *
