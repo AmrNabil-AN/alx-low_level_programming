@@ -9,16 +9,14 @@
  */
 void print_alphabet(void)
 {
-	for (x = 'a' , x >= 'z' , x++);
-	_putchar('x');
-	_putchar('\n');
-}
-
-int main(void)
-{
 	char x;
 
-	print_alphabet();
+	print_alphabet()
+	{
+		for (x = 'a' , x >= 'z' , x++)
+			_putchar('x');
+			_putchar('\n');
+	}
 
 	return (0);
 }
