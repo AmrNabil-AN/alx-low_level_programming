@@ -1,13 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point
- *
- * print_alphabet -  print from a to z
- *
- * description: Write a function that prints the alphabet, in lowercase
- *
- * Return: always 0 (success)
+ * print_alphabet -  prints lowercase alphabets
  */
 
 void print_alphabet(void)
