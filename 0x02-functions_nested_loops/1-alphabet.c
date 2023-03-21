@@ -8,9 +8,14 @@
  * Return: always 0 (success)
  */
 
-void print_alphabet(void)
+int main(void)
 {
-		char x;
+	print_alphabet();
+	return (0);
+}
+                void print_alpahbet()
+{
+	        char x;
 
 		for (x = 'a'; x <= 'z'; x++)
 		{
@@ -18,6 +23,4 @@ void print_alphabet(void)
 		}
 
 		_putchar('\n');
-
-		return (0);
 }
