@@ -8,7 +8,7 @@
  * Return: return valuo
  */
 
-void print_to_98(void n)
+void print_to_98(int n)
 {
 	if (n >= 98)
 	{
