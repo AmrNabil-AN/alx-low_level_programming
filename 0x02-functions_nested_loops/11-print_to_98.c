@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_to_98 - check code
@@ -7,7 +8,7 @@
  * Return: return valuo
  */
 
-void print_to_98(int n)
+void print_to_98(void n)
 {
 	if (n >= 98)
 	{
@@ -21,6 +22,5 @@ void print_to_98(int n)
 			printf("%d, ", n++);
 				printf("d\n", n);
 	}
-		return (0);
 }
 
