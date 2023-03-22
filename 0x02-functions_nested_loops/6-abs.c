@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abc - check the absolute value
+ * _abs - check the absolute value
  * @n: character
  *
  * Return: value
@@ -12,7 +12,7 @@ int _abs(int n)
 	{
 		return (-n);
 	}
-	else 
+	else
 	{
 		return (n);
 	}
