@@ -2,7 +2,8 @@
 
 /**
  * add - check code
- *
+ * @x: character
+ * @y: character
  * Return: return valuo
  */
 
