@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * maint - test function that prints if intger is postive or negitive
+ * main - test function that prints if intger is postive or negitive
  * Return: 0
  */
 
