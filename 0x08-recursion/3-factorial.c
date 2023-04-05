@@ -5,7 +5,7 @@
  * Return: always 0 (success)
  */
 
-int factorial(int n);
+int factorial(int n)
 {
 	if (n < 0)
 	{
