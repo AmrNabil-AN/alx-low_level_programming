@@ -2,7 +2,8 @@
 
 /**
  * _sqrt_recursion - return the natural square number
- * @n: intger
+ * @n: intge
+ * @val: intgerr
  * Return: always 0 sucess
  */
 int square(int n, int val);
